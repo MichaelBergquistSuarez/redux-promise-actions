@@ -1,6 +1,6 @@
-const middleware = require('./src/middleware');
-const handlePromiseAction = require('./src/handlePromiseAction');
-const helpers = require('./src/helpers');
+const middleware = require('./middleware');
+const handlePromiseAction = require('./handlePromiseAction');
+const helpers = require('./helpers');
 
 module.exports = {
   middleware,
