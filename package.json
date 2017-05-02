@@ -34,6 +34,8 @@
   },
   "devDependencies": {
     "ava": "^0.19.1",
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.4.0",
     "codecov": "^2.1.0",
     "eslint": "~3.19.0",
     "eslint-config-airbnb": "~14.1.0",
